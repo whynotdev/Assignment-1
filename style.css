@@ -1,0 +1,10 @@
+body{
+    background-color: #98A8F8;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
